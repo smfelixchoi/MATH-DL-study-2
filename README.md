@@ -1,7 +1,7 @@
 # MATH-DL-study-2
 ## MATH-DL-study season 2
 
-Schedule
+**Schedule**
 
 1. Gradient Descent Review (June 26th, 2023)
 	- Presenter: Sunmook Choi
