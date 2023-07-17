@@ -1,5 +1,5 @@
 # MATH-DL-study-2
-## MATH-DL-study season 2
+## Deep Learning Study season 2
 
 **Schedule**
 
@@ -24,3 +24,17 @@
 		- MobileNet (PyTorch)
 		- ResNet (TensorFlow)
 	- HW: Construct a model using the Inception Module.
+	
+5. Recurrent Neural Networks (July 31st, 2023)
+	- Presenter: Sunmook Choi
+	- Construct and train Recurrent Neural Networks
+		- Vanilla RNN
+		- LSTM
+	- HW: Construct Gated Recurrent Unit (GRU) model.
+	
+6. Auto-Encoder and Variational Auto-Encoder (Aug. 7th, 2023)
+	- Presenter: Chanhyeok Choi
+
+7. Generative Adversarial Networks (Aug. 28th, 2023)
+	- Presenter: Sunmook Choi
+	
