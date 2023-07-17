@@ -1,7 +1,5 @@
 # MATH-DL-study-2
-## Deep Learning Study season 2
-
-**Schedule**
+## Deep Learning Study season 2 Schedule
 
 1. Gradient Descent Review (June 26th, 2023)
 	- Presenter: Sunmook Choi
