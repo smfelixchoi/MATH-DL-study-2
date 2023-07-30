@@ -26,9 +26,8 @@
 5. Recurrent Neural Networks (July 31st, 2023)
 	- Presenter: Sunmook Choi
 	- Construct and train Recurrent Neural Networks
-		- Vanilla RNN
-		- LSTM
-	- HW: Construct Gated Recurrent Unit (GRU) model.
+		- Vanilla RNN, stacked RNN, LSTM
+		- Stateful LSTM
 	
 6. Auto-Encoder and Variational Auto-Encoder (Aug. 7th, 2023)
 	- Presenter: Chanhyeok Choi
