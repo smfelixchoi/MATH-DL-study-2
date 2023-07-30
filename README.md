@@ -29,9 +29,12 @@
 		- Vanilla RNN, stacked RNN, LSTM
 		- Stateful LSTM
 	
-6. Auto-Encoder and Variational Auto-Encoder (Aug. 7th, 2023)
+6. Auto-Encoder (Aug. 7th, 2023)
 	- Presenter: Chanhyeok Choi
 
-7. Generative Adversarial Networks (Aug. 28th, 2023)
+7. Variational Auto-Encoder (Aug. 14th, 2023)
+	- Presenter: Chanhyeok Choi
+
+8. Generative Adversarial Networks (Aug. 28th, 2023)
 	- Presenter: Sunmook Choi
 	
